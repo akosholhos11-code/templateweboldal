@@ -18,8 +18,8 @@ Azért választottam, mert: Ugy gondolom hogy ez a legjobb Template egy webshoph
 
 ## Mit módosítottam?
 
--
--
+- A képeket Módosítottam
+- Módósíottam fő képek alatt a címet es a szöveget illetve az alatta lévő neveket és képeket
 -
 -
 -
