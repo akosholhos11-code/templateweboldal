@@ -19,10 +19,10 @@ Azért választottam, mert: Ugy gondolom hogy ez a legjobb Template egy webshoph
 ## Mit módosítottam?
 
 - A képeket Módosítottam
-- Módósíottam fő képek alatt a címet es a szöveget illetve az alatta lévő neveket és képeket
--
--
--
+- Módosíottam fő képek alatt a címet es a szöveget illetve az alatta lévő neveket és képeket
+-Módosítottama kártyákat illetve a kártyák mögött lévő háttér szinét
+-Módosítottam a kosár rendszert is 
+-Módosítottam a láblécben lévő szövegeket illetve a kitőltő részleget is 
 
 ## Használt technológiák
 
